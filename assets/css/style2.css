@@ -10,50 +10,19 @@ body {
   background-image: url("../images/concrete.png");
 }
 
-
 .nav-link {word-spacing: 7px;
-}
-
-
-#formfields1 {
-  height:30px;
-  width: 100%;
-}
-#formfields2 {
-  height:200px;
-  width: 100%;
-}
-
-#button {
-  height:30px;
-  width: 150px;
-  background-color: #4aaaa5;
-  color: #ffffff;
-  border:0px;
-}
-.box {
-  float: left;
-  width: 250px;
-  height: 200px;
-  margin: 15px;
-}
-
-.relative {position:relative;}
-
-.boxgrid {
-  width:570px;
-  margin:30px;
 }
 
 .photolabel {position: relative;
     z-index: 2;
-    top: -100px;
+    top: -30%;
     left: 0px;
     color: #ffffff;
-    height:40px;
-    width: 250px;
+    height:20%;
     background-color: #4aaaa5;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 5%;
     font-family: 'Georgia', Times, Times New Roman, serif;
   }
+
+.bottomspace {margin-bottom: 5px}
