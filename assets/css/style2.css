@@ -10,8 +10,6 @@ body {
   background-image: url("../images/concrete.png");
 }
 
-.nav-link {word-spacing: 7px;
-}
 
 .photolabel {position: relative;
     z-index: 2;
@@ -24,6 +22,9 @@ body {
     padding-top: 5%;
     font-family: 'Georgia', Times, Times New Roman, serif;
   }
+
+a {color: #777777;
+word-spacing: 7px;}
 
 .bottomspace {margin-bottom: 5px}
 
