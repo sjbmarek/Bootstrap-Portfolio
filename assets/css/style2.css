@@ -12,6 +12,7 @@ body {
 
 
 .photolabel {position: relative;
+    max-width: 300px;
     z-index: 2;
     top: -30%;
     left: 0px;
