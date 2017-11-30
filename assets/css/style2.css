@@ -24,12 +24,11 @@ body {
     font-family: 'Georgia', Times, Times New Roman, serif;
   }
 
-a {color: #777777;
-word-spacing: 7px;}
+a {color: #777777;}
 
 .bottomspace {margin-bottom: 5px}
 
-.marek {width:300px;
+.marek {width:400px;
     height: 79px;
     padding-top: 30px;
     font-size: 36px;
