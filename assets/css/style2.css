@@ -26,6 +26,8 @@ body {
 
 a {color: #777777;}
 
+.white {color: white;}
+
 .bottomspace {margin-bottom: 5px}
 
 .marek {width:400px;
@@ -35,3 +37,16 @@ a {color: #777777;}
     background-color:#4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
  }
+
+ .photolabelbig {position: relative;
+    max-width: 300px;
+    z-index: 2;
+    top: -70%;
+    left: 0px;
+    color: #ffffff;
+    height:10%;
+    background-color: dimgray;
+    text-align: center;
+    /*padding-top: 5%;*/
+    font-family: 'Georgia', Times, Times New Roman, serif;
+  }
