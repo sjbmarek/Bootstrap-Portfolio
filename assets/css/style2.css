@@ -12,7 +12,7 @@ body {
 
 
 .photolabel {position: relative;
-    max-width: 300px;
+    max-width: 258px;
     z-index: 2;
     top: -30%;
     left: 0px;
@@ -38,15 +38,4 @@ a {color: #777777;}
     font-family: 'Georgia', Times, Times New Roman, serif;
  }
 
- .photolabelbig {position: relative;
-    max-width: 300px;
-    z-index: 2;
-    top: -70%;
-    left: 0px;
-    color: #ffffff;
-    height:10%;
-    background-color: dimgray;
-    text-align: center;
-    /*padding-top: 5%;*/
-    font-family: 'Georgia', Times, Times New Roman, serif;
-  }
+
